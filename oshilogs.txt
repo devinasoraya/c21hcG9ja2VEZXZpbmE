@@ -1,0 +1,110 @@
+c[36m====================================================[0m
+[36m   ___  ____  _   _ ___   _        _    ____  ____   [0m
+[36m  / _ \/ ___|| | | |_ _| | |      / \  | __ )| ___|  [0m
+[36m | | | \___ \| |_| || |  | |     / _ \ |  _ \|___ \  [0m
+[36m | |_| |___) |  _  || |  | |___ / ___ \| |_) |___) | [0m
+[36m  \___/|____/|_| |_|___| |_____/_/   \_\____/|____/  [0m
+[36m====================================================[0m
+
+delay/task: 10s | limit: semua
+akun source: /home/runner/work/c21hcG9ja2VEZXZpbmE/c21hcG9ja2VEZXZpbmE/account.json | jumlah: 1
+mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch Anime, Read Article, Quiz Anime, Music Missions, Claim Missions, Check Eligibility, Read Manga, Get Gift, Setup Profile, Bind Wallet SEQUENSIAL
+
+
+===== [1/1] Devina =====
+[1]Devina      |07:59:34 | 11-10-2026| login OK @devinasrya | score=920 rank=6370
+[1]Devina      |07:59:34 | 11-10-2026| serverTime=2026-10-11T07:59:34.000Z local=2026-10-11T07:59:34.669Z
+--> [1]Devina menjalankan: Claim Daily
+[1]Devina      |07:59:35 | 11-10-2026| daily: sudah klaim (already=true) score=920
+--> [1]Devina menjalankan: Auto All Tasks (3 pending)
+[1]Devina      |07:59:37 | 11-10-2026| [1/3] 43abe690 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/devinasrya/status/2109191847432813943
+[1]Devina      |07:59:37 | 11-10-2026| delay 10s...
+[1]Devina      |07:59:50 | 11-10-2026| [2/3] 1499c73c (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/devinasrya/status/2109191822477866088
+[1]Devina      |07:59:50 | 11-10-2026| delay 10s...
+[1]Devina      |08:00:02 | 11-10-2026| [3/3] e62ee4d9 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/devinasrya/status/2109191761248180565
+[1]Devina      |08:00:02 | 11-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Devina      |08:00:03 | 11-10-2026| [1/1] 43abe690 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2108174064712032 | proof=https://x.com/devinasrya/status/2109191862860274056
+--> [1]Devina menjalankan: Watch Anime
+[1]Devina      |08:00:04 | 11-10-2026| watch: 1 video belum completed: oshi-first-journey
+[1]Devina      |08:00:04 | 11-10-2026| watch [1/1] farming oshi-first-journey...
+[1]Devina      |08:00:07 | 11-10-2026| watch oshi-first-journey: 0% (0.00/87.00s)
+[1]Devina      |08:00:16 | 11-10-2026| watch oshi-first-journey: 7% (6.45/87.00s)
+[1]Devina      |08:00:22 | 11-10-2026| watch oshi-first-journey: 14% (12.74/87.00s)
+[1]Devina      |08:00:28 | 11-10-2026| watch oshi-first-journey: 21% (18.34/87.00s)
+[1]Devina      |08:00:35 | 11-10-2026| watch oshi-first-journey: 27% (23.93/87.00s)
+[1]Devina      |08:00:42 | 11-10-2026| watch oshi-first-journey: 34% (29.92/87.00s)
+[1]Devina      |08:00:50 | 11-10-2026| watch oshi-first-journey: 41% (36.21/87.00s)
+[1]Devina      |08:00:56 | 11-10-2026| watch oshi-first-journey: 49% (43.02/87.00s)
+[1]Devina      |08:01:05 | 11-10-2026| watch oshi-first-journey: 55% (48.55/87.00s)
+[1]Devina      |08:01:11 | 11-10-2026| watch oshi-first-journey: 64% (55.70/87.00s)
+[1]Devina      |08:01:19 | 11-10-2026| watch oshi-first-journey: 70% (61.38/87.00s)
+[1]Devina      |08:01:26 | 11-10-2026| watch oshi-first-journey: 78% (68.35/87.00s)
+[1]Devina      |08:01:32 | 11-10-2026| watch oshi-first-journey: 85% (74.13/87.00s)
+[1]Devina      |08:01:39 | 11-10-2026| watch oshi-first-journey: 91% (79.79/87.00s)
+[1]Devina      |08:01:39 | 11-10-2026| watch oshi-first-journey: COMPLETED (79.79/87.00s)
+--> [1]Devina menjalankan: Read Article
+[1]Devina      |08:01:40 | 11-10-2026| news: 24/24 artikel selesai dibaca
+[1]Devina      |08:01:42 | 11-10-2026| mint eligibility: {"userId":"1776372963115491328","youtube":{"url":"https://www.youtube.com/@devinasrya","status":"submitted","revision":"384b4a34-5e49-4db1-b8ed-af24c28de9a2","submittedAt":1791676430,"reviewedAt":1791
+[1]Devina      |08:01:42 | 11-10-2026| news: semua artikel sudah dibaca
+--> [1]Devina menjalankan: Quiz Anime
+[1]Devina      |08:01:43 | 11-10-2026| quiz ep1: sudah dijawab
+[1]Devina      |08:01:43 | 11-10-2026| quiz ep2: sudah dijawab
+[1]Devina      |08:01:43 | 11-10-2026| quiz ep3: sudah dijawab
+[1]Devina      |08:01:43 | 11-10-2026| quiz ep4: sudah dijawab
+[1]Devina      |08:01:43 | 11-10-2026| quiz ep5: sudah dijawab
+[1]Devina      |08:01:43 | 11-10-2026| quiz ep6: sudah dijawab
+--> [1]Devina menjalankan: Music Missions (realtime, bisa lama!)
+[1]Devina      |08:01:47 | 11-10-2026| music memutar "桃色の頃" (213s)...
+[1]Devina      |08:01:59 | 11-10-2026| music "桃色の頃": 4% (9.0054/213s)
+[1]Devina      |08:02:14 | 11-10-2026| music "桃色の頃": 9% (19.2357/213s)
+[1]Devina      |08:02:25 | 11-10-2026| music "桃色の頃": 15% (32.8842/213s)
+[1]Devina      |08:02:37 | 11-10-2026| music "桃色の頃": 20% (43.2036/213s)
+[1]Devina      |08:02:48 | 11-10-2026| music "桃色の頃": 25% (54.0351/213s)
+[1]Devina      |08:03:00 | 11-10-2026| music "桃色の頃": 30% (64.0836/213s)
+[1]Devina      |08:03:13 | 11-10-2026| music "桃色の頃": 34% (74.2788/213s)
+[1]Devina      |08:03:25 | 11-10-2026| music "桃色の頃": 40% (86.31360000000001/213s)
+[1]Devina      |08:03:36 | 11-10-2026| music "桃色の頃": 45% (96.7608/213s)
+[1]Devina      |08:03:47 | 11-10-2026| music "桃色の頃": 50% (106.71300000000001/213s)
+[1]Devina      |08:03:58 | 11-10-2026| music "桃色の頃": 54% (116.74260000000001/213s)
+[1]Devina      |08:04:09 | 11-10-2026| music "桃色の頃": 59% (126.73710000000001/213s)
+[1]Devina      |08:04:21 | 11-10-2026| music "桃色の頃": 64% (136.7838/213s)
+[1]Devina      |08:04:32 | 11-10-2026| music "桃色の頃": 69% (147.58200000000002/213s)
+[1]Devina      |08:04:44 | 11-10-2026| music "桃色の頃": 74% (157.71240000000003/213s)
+[1]Devina      |08:04:56 | 11-10-2026| music "桃色の頃": 79% (168.29820000000004/213s)
+[1]Devina      |08:05:07 | 11-10-2026| music "桃色の頃": 83% (178.71840000000003/213s)
+[1]Devina      |08:05:08 | 11-10-2026| music "桃色の頃": selesai 178.71840000000003s
+[1]Devina      |08:05:11 | 11-10-2026| music memutar "記憶の名前" (224s)...
+[1]Devina      |08:05:22 | 11-10-2026| music "記憶の名前": 4% (9.0054/224s)
+[1]Devina      |08:05:34 | 11-10-2026| music "記憶の名前": 8% (18.9342/224s)
+[1]Devina      |08:05:47 | 11-10-2026| music "記憶の名前": 13% (29.893500000000003/224s)
+[1]Devina      |08:05:59 | 11-10-2026| music "記憶の名前": 18% (41.856300000000005/224s)
+[1]Devina      |08:06:12 | 11-10-2026| music "記憶の名前": 23% (52.4061/224s)
+[1]Devina      |08:06:22 | 11-10-2026| music 367bf222-a4ef-4252-9653-84bb56fd2973: heartbeat GAGAL http=503, stop trek
+[1]Devina      |08:06:22 | 11-10-2026| music "記憶の名前": selesai 64.2303s
+[1]Devina      |08:06:22 | 11-10-2026| music ERROR: music-progress http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+[1]Devina      |08:06:22 | 11-10-2026| missions ERROR: missions http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+--> [1]Devina menjalankan: Claim Missions
+[1]Devina      |08:06:22 | 11-10-2026| missions ERROR: missions http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+--> [1]Devina menjalankan: Check Eligibility
+
+--- eligibility [1]Devina ---
+  @devinasrya | score=920 rank=6370
+  tasks    [###################-] 73/76
+  missions: ERROR missions http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+  quiz: ERROR quizzes http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+  watch: ERROR watch-progress http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+  music: ERROR music-progress http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+  artikel: ERROR news-progress http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+  mint: ERROR mint-eligibility http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+
+--> [1]Devina menjalankan: Read Manga
+[1]Devina      |08:06:24 | 11-10-2026| manga ERROR: manga-history http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+--> [1]Devina menjalankan: Get Gift
+[1]Devina      |08:06:24 | 11-10-2026| gift ERROR: gifts http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+--> [1]Devina menjalankan: Setup Profile
+[1]Devina      |08:06:24 | 11-10-2026| profile ERROR: member-settings http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+--> [1]Devina menjalankan: Bind Wallet
+[1]Devina      |08:06:24 | 11-10-2026| wallet ERROR: member-settings http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+
+== RINGKASAN ==
+- Devina: daily=already | tasks OK 4/4 | misi klaim 0 (+0pt) | kuis benar 6 (+0pt) | watch 1/1 completed | musik 2 trek ~242.94870000000003s | artikel 0 dibaca | manga 0/0 completed | gift 0/0 diterima | profile - | wallet -
