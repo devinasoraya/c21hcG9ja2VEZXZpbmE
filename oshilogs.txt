@@ -12,99 +12,424 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
 
 
 ===== [1/1] Devina =====
-[1]Devina      |07:59:34 | 11-10-2026| login OK @devinasrya | score=920 rank=6370
-[1]Devina      |07:59:34 | 11-10-2026| serverTime=2026-10-11T07:59:34.000Z local=2026-10-11T07:59:34.669Z
+[1]Devina      |16:38:09 | 12-10-2026| login OK @devinasrya | score=950 rank=6446
+[1]Devina      |16:38:09 | 12-10-2026| serverTime=2026-10-12T16:38:09.000Z local=2026-10-12T16:38:09.230Z
 --> [1]Devina menjalankan: Claim Daily
-[1]Devina      |07:59:35 | 11-10-2026| daily: sudah klaim (already=true) score=920
---> [1]Devina menjalankan: Auto All Tasks (3 pending)
-[1]Devina      |07:59:37 | 11-10-2026| [1/3] 43abe690 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/devinasrya/status/2109191847432813943
-[1]Devina      |07:59:37 | 11-10-2026| delay 10s...
-[1]Devina      |07:59:50 | 11-10-2026| [2/3] 1499c73c (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/devinasrya/status/2109191822477866088
-[1]Devina      |07:59:50 | 11-10-2026| delay 10s...
-[1]Devina      |08:00:02 | 11-10-2026| [3/3] e62ee4d9 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/devinasrya/status/2109191761248180565
-[1]Devina      |08:00:02 | 11-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
-[1]Devina      |08:00:03 | 11-10-2026| [1/1] 43abe690 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2108174064712032 | proof=https://x.com/devinasrya/status/2109191862860274056
+[1]Devina      |16:38:10 | 12-10-2026| daily: OK +10 poin score=960
+--> [1]Devina menjalankan: Auto All Tasks (10 pending)
+[1]Devina      |16:38:12 | 12-10-2026| [1/10] cdea075d (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/devinasrya/status/2109684720639986341
+[1]Devina      |16:38:12 | 12-10-2026| delay 10s...
+[1]Devina      |16:38:24 | 12-10-2026| [2/10] c0692622 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/devinasrya/status/2109684737707588257
+[1]Devina      |16:38:24 | 12-10-2026| delay 10s...
+[1]Devina      |16:38:36 | 12-10-2026| [3/10] 52236caa (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/devinasrya/status/2109684555991067600
+[1]Devina      |16:38:36 | 12-10-2026| delay 10s...
+[1]Devina      |16:38:47 | 12-10-2026| [4/10] fa907706 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/devinasrya/status/2109684799112350892
+[1]Devina      |16:38:47 | 12-10-2026| delay 10s...
+[1]Devina      |16:38:59 | 12-10-2026| [5/10] f3c57454 (link) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203
+[1]Devina      |16:38:59 | 12-10-2026| delay 10s...
+[1]Devina      |16:39:11 | 12-10-2026| [6/10] 446fd4f4 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/devinasrya/status/2109684741738762872
+[1]Devina      |16:39:11 | 12-10-2026| delay 10s...
+[1]Devina      |16:39:23 | 12-10-2026| [7/10] cbf91691 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/devinasrya/status/2109684985205979712
+[1]Devina      |16:39:23 | 12-10-2026| delay 10s...
+[1]Devina      |16:39:35 | 12-10-2026| [8/10] 484fa559 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/devinasrya/status/2109685118362917861
+[1]Devina      |16:39:35 | 12-10-2026| delay 10s...
+[1]Devina      |16:39:47 | 12-10-2026| [9/10] 7411ef73 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/devinasrya/status/2109684942722383365
+[1]Devina      |16:39:47 | 12-10-2026| delay 10s...
+[1]Devina      |16:39:58 | 12-10-2026| [10/10] 65e97767 (link) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203
+[1]Devina      |16:39:58 | 12-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Devina      |16:40:00 | 12-10-2026| [1/1] cdea075d (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2108174064712032 | proof=https://x.com/devinasrya/status/2109685142239757515
 --> [1]Devina menjalankan: Watch Anime
-[1]Devina      |08:00:04 | 11-10-2026| watch: 1 video belum completed: oshi-first-journey
-[1]Devina      |08:00:04 | 11-10-2026| watch [1/1] farming oshi-first-journey...
-[1]Devina      |08:00:07 | 11-10-2026| watch oshi-first-journey: 0% (0.00/87.00s)
-[1]Devina      |08:00:16 | 11-10-2026| watch oshi-first-journey: 7% (6.45/87.00s)
-[1]Devina      |08:00:22 | 11-10-2026| watch oshi-first-journey: 14% (12.74/87.00s)
-[1]Devina      |08:00:28 | 11-10-2026| watch oshi-first-journey: 21% (18.34/87.00s)
-[1]Devina      |08:00:35 | 11-10-2026| watch oshi-first-journey: 27% (23.93/87.00s)
-[1]Devina      |08:00:42 | 11-10-2026| watch oshi-first-journey: 34% (29.92/87.00s)
-[1]Devina      |08:00:50 | 11-10-2026| watch oshi-first-journey: 41% (36.21/87.00s)
-[1]Devina      |08:00:56 | 11-10-2026| watch oshi-first-journey: 49% (43.02/87.00s)
-[1]Devina      |08:01:05 | 11-10-2026| watch oshi-first-journey: 55% (48.55/87.00s)
-[1]Devina      |08:01:11 | 11-10-2026| watch oshi-first-journey: 64% (55.70/87.00s)
-[1]Devina      |08:01:19 | 11-10-2026| watch oshi-first-journey: 70% (61.38/87.00s)
-[1]Devina      |08:01:26 | 11-10-2026| watch oshi-first-journey: 78% (68.35/87.00s)
-[1]Devina      |08:01:32 | 11-10-2026| watch oshi-first-journey: 85% (74.13/87.00s)
-[1]Devina      |08:01:39 | 11-10-2026| watch oshi-first-journey: 91% (79.79/87.00s)
-[1]Devina      |08:01:39 | 11-10-2026| watch oshi-first-journey: COMPLETED (79.79/87.00s)
+[1]Devina      |16:40:01 | 12-10-2026| watch: semua video sudah completed
 --> [1]Devina menjalankan: Read Article
-[1]Devina      |08:01:40 | 11-10-2026| news: 24/24 artikel selesai dibaca
-[1]Devina      |08:01:42 | 11-10-2026| mint eligibility: {"userId":"1776372963115491328","youtube":{"url":"https://www.youtube.com/@devinasrya","status":"submitted","revision":"384b4a34-5e49-4db1-b8ed-af24c28de9a2","submittedAt":1791676430,"reviewedAt":1791
-[1]Devina      |08:01:42 | 11-10-2026| news: semua artikel sudah dibaca
+[1]Devina      |16:40:02 | 12-10-2026| news: 24/24 artikel selesai dibaca
+[1]Devina      |16:40:03 | 12-10-2026| mint eligibility: {"userId":"1776372963115491328","youtube":{"url":"https://www.youtube.com/@devinasrya","status":"submitted","revision":"384b4a34-5e49-4db1-b8ed-af24c28de9a2","submittedAt":1791676430,"reviewedAt":1791
+[1]Devina      |16:40:03 | 12-10-2026| news: semua artikel sudah dibaca
 --> [1]Devina menjalankan: Quiz Anime
-[1]Devina      |08:01:43 | 11-10-2026| quiz ep1: sudah dijawab
-[1]Devina      |08:01:43 | 11-10-2026| quiz ep2: sudah dijawab
-[1]Devina      |08:01:43 | 11-10-2026| quiz ep3: sudah dijawab
-[1]Devina      |08:01:43 | 11-10-2026| quiz ep4: sudah dijawab
-[1]Devina      |08:01:43 | 11-10-2026| quiz ep5: sudah dijawab
-[1]Devina      |08:01:43 | 11-10-2026| quiz ep6: sudah dijawab
+[1]Devina      |16:40:03 | 12-10-2026| quiz ep1: sudah dijawab
+[1]Devina      |16:40:03 | 12-10-2026| quiz ep2: sudah dijawab
+[1]Devina      |16:40:03 | 12-10-2026| quiz ep3: sudah dijawab
+[1]Devina      |16:40:03 | 12-10-2026| quiz ep4: sudah dijawab
+[1]Devina      |16:40:03 | 12-10-2026| quiz ep5: sudah dijawab
+[1]Devina      |16:40:03 | 12-10-2026| quiz ep6: sudah dijawab
 --> [1]Devina menjalankan: Music Missions (realtime, bisa lama!)
-[1]Devina      |08:01:47 | 11-10-2026| music memutar "桃色の頃" (213s)...
-[1]Devina      |08:01:59 | 11-10-2026| music "桃色の頃": 4% (9.0054/213s)
-[1]Devina      |08:02:14 | 11-10-2026| music "桃色の頃": 9% (19.2357/213s)
-[1]Devina      |08:02:25 | 11-10-2026| music "桃色の頃": 15% (32.8842/213s)
-[1]Devina      |08:02:37 | 11-10-2026| music "桃色の頃": 20% (43.2036/213s)
-[1]Devina      |08:02:48 | 11-10-2026| music "桃色の頃": 25% (54.0351/213s)
-[1]Devina      |08:03:00 | 11-10-2026| music "桃色の頃": 30% (64.0836/213s)
-[1]Devina      |08:03:13 | 11-10-2026| music "桃色の頃": 34% (74.2788/213s)
-[1]Devina      |08:03:25 | 11-10-2026| music "桃色の頃": 40% (86.31360000000001/213s)
-[1]Devina      |08:03:36 | 11-10-2026| music "桃色の頃": 45% (96.7608/213s)
-[1]Devina      |08:03:47 | 11-10-2026| music "桃色の頃": 50% (106.71300000000001/213s)
-[1]Devina      |08:03:58 | 11-10-2026| music "桃色の頃": 54% (116.74260000000001/213s)
-[1]Devina      |08:04:09 | 11-10-2026| music "桃色の頃": 59% (126.73710000000001/213s)
-[1]Devina      |08:04:21 | 11-10-2026| music "桃色の頃": 64% (136.7838/213s)
-[1]Devina      |08:04:32 | 11-10-2026| music "桃色の頃": 69% (147.58200000000002/213s)
-[1]Devina      |08:04:44 | 11-10-2026| music "桃色の頃": 74% (157.71240000000003/213s)
-[1]Devina      |08:04:56 | 11-10-2026| music "桃色の頃": 79% (168.29820000000004/213s)
-[1]Devina      |08:05:07 | 11-10-2026| music "桃色の頃": 83% (178.71840000000003/213s)
-[1]Devina      |08:05:08 | 11-10-2026| music "桃色の頃": selesai 178.71840000000003s
-[1]Devina      |08:05:11 | 11-10-2026| music memutar "記憶の名前" (224s)...
-[1]Devina      |08:05:22 | 11-10-2026| music "記憶の名前": 4% (9.0054/224s)
-[1]Devina      |08:05:34 | 11-10-2026| music "記憶の名前": 8% (18.9342/224s)
-[1]Devina      |08:05:47 | 11-10-2026| music "記憶の名前": 13% (29.893500000000003/224s)
-[1]Devina      |08:05:59 | 11-10-2026| music "記憶の名前": 18% (41.856300000000005/224s)
-[1]Devina      |08:06:12 | 11-10-2026| music "記憶の名前": 23% (52.4061/224s)
-[1]Devina      |08:06:22 | 11-10-2026| music 367bf222-a4ef-4252-9653-84bb56fd2973: heartbeat GAGAL http=503, stop trek
-[1]Devina      |08:06:22 | 11-10-2026| music "記憶の名前": selesai 64.2303s
-[1]Devina      |08:06:22 | 11-10-2026| music ERROR: music-progress http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
-[1]Devina      |08:06:22 | 11-10-2026| missions ERROR: missions http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+[1]Devina      |16:40:07 | 12-10-2026| music memutar "記憶の名前" (224s)...
+[1]Devina      |16:40:18 | 12-10-2026| music "記憶の名前": 4% (9.0054/224s)
+[1]Devina      |16:40:29 | 12-10-2026| music "記憶の名前": 8% (19.029600000000002/224s)
+[1]Devina      |16:40:41 | 12-10-2026| music "記憶の名前": 12% (28.8945/224s)
+[1]Devina      |16:40:53 | 12-10-2026| music "記憶の名前": 17% (40.2813/224s)
+[1]Devina      |16:41:05 | 12-10-2026| music "記憶の名前": 22% (51.057900000000004/224s)
+[1]Devina      |16:41:16 | 12-10-2026| music "記憶の名前": 27% (61.086600000000004/224s)
+[1]Devina      |16:41:27 | 12-10-2026| music "記憶の名前": 31% (71.02890000000001/224s)
+[1]Devina      |16:41:38 | 12-10-2026| music "記憶の名前": 36% (81.1062/224s)
+[1]Devina      |16:41:49 | 12-10-2026| music "記憶の名前": 40% (91.035/224s)
+[1]Devina      |16:42:00 | 12-10-2026| music "記憶の名前": 45% (100.91159999999999/224s)
+[1]Devina      |16:42:11 | 12-10-2026| music "記憶の名前": 49% (111.267/224s)
+[1]Devina      |16:42:23 | 12-10-2026| music "記憶の名前": 54% (121.1652/224s)
+[1]Devina      |16:42:35 | 12-10-2026| music "記憶の名前": 58% (131.3505/224s)
+[1]Devina      |16:42:46 | 12-10-2026| music "記憶の名前": 63% (142.1793/224s)
+[1]Devina      |16:42:57 | 12-10-2026| music "記憶の名前": 67% (152.0928/224s)
+[1]Devina      |16:43:08 | 12-10-2026| music "記憶の名前": 72% (161.99730000000002/224s)
+[1]Devina      |16:43:19 | 12-10-2026| music "記憶の名前": 76% (171.91080000000002/224s)
+[1]Devina      |16:43:30 | 12-10-2026| music "記憶の名前": 81% (181.80450000000002/224s)
+[1]Devina      |16:43:30 | 12-10-2026| music "記憶の名前": selesai 181.80450000000002s
+[1]Devina      |16:43:32 | 12-10-2026| music memutar "Smart Pocket" (232s)...
+[1]Devina      |16:43:44 | 12-10-2026| music "Smart Pocket": 3% (9.001800000000001/232s)
+[1]Devina      |16:43:55 | 12-10-2026| music "Smart Pocket": 8% (19.4355/232s)
+[1]Devina      |16:44:06 | 12-10-2026| music "Smart Pocket": 12% (29.6397/232s)
+[1]Devina      |16:44:17 | 12-10-2026| music "Smart Pocket": 17% (39.545100000000005/232s)
+[1]Devina      |16:44:28 | 12-10-2026| music "Smart Pocket": 21% (49.454100000000004/232s)
+[1]Devina      |16:44:39 | 12-10-2026| music "Smart Pocket": 25% (59.31/232s)
+[1]Devina      |16:44:51 | 12-10-2026| music "Smart Pocket": 29% (69.5376/232s)
+[1]Devina      |16:45:02 | 12-10-2026| music "Smart Pocket": 34% (79.5582/232s)
+[1]Devina      |16:45:13 | 12-10-2026| music "Smart Pocket": 38% (89.4564/232s)
+[1]Devina      |16:45:24 | 12-10-2026| music "Smart Pocket": 42% (99.3951/232s)
+[1]Devina      |16:45:35 | 12-10-2026| music "Smart Pocket": 47% (109.38419999999999/232s)
+[1]Devina      |16:45:46 | 12-10-2026| music "Smart Pocket": 51% (119.3607/232s)
+[1]Devina      |16:45:57 | 12-10-2026| music "Smart Pocket": 55% (129.25889999999998/232s)
+[1]Devina      |16:46:08 | 12-10-2026| music "Smart Pocket": 60% (139.5153/232s)
+[1]Devina      |16:46:19 | 12-10-2026| music "Smart Pocket": 64% (149.5602/232s)
+[1]Devina      |16:46:31 | 12-10-2026| music "Smart Pocket": 68% (159.5448/232s)
+[1]Devina      |16:46:42 | 12-10-2026| music "Smart Pocket": 73% (169.6797/232s)
+[1]Devina      |16:46:53 | 12-10-2026| music "Smart Pocket": 77% (179.667/232s)
+[1]Devina      |16:47:04 | 12-10-2026| music "Smart Pocket": 81% (189.6327/232s)
+[1]Devina      |16:47:05 | 12-10-2026| music "Smart Pocket": selesai 189.6327s
+[1]Devina      |16:47:07 | 12-10-2026| music memutar "神様みたいに" (254s)...
+[1]Devina      |16:47:18 | 12-10-2026| music "神様みたいに": 3% (9.0045/254s)
+[1]Devina      |16:47:30 | 12-10-2026| music "神様みたいに": 7% (18.963900000000002/254s)
+[1]Devina      |16:47:42 | 12-10-2026| music "神様みたいに": 11% (29.509200000000003/254s)
+[1]Devina      |16:47:53 | 12-10-2026| music "神様みたいに": 15% (39.822300000000006/254s)
+[1]Devina      |16:48:04 | 12-10-2026| music "神様みたいに": 19% (49.722300000000004/254s)
+[1]Devina      |16:48:15 | 12-10-2026| music "神様みたいに": 23% (59.813100000000006/254s)
+[1]Devina      |16:48:26 | 12-10-2026| music "神様みたいに": 27% (69.9102/254s)
+[1]Devina      |16:48:38 | 12-10-2026| music "神様みたいに": 31% (79.8525/254s)
+[1]Devina      |16:48:49 | 12-10-2026| music "神様みたいに": 35% (90.2025/254s)
+[1]Devina      |16:49:00 | 12-10-2026| music "神様みたいに": 39% (100.18260000000001/254s)
+[1]Devina      |16:49:11 | 12-10-2026| music "神様みたいに": 43% (110.24640000000001/254s)
+[1]Devina      |16:49:22 | 12-10-2026| music "神様みたいに": 47% (120.30300000000001/254s)
+[1]Devina      |16:49:33 | 12-10-2026| music "神様みたいに": 51% (130.5/254s)
+[1]Devina      |16:49:45 | 12-10-2026| music "神様みたいに": 55% (140.3928/254s)
+[1]Devina      |16:49:56 | 12-10-2026| music "神様みたいに": 59% (150.3963/254s)
+[1]Devina      |16:50:07 | 12-10-2026| music "神様みたいに": 63% (160.3404/254s)
+[1]Devina      |16:50:18 | 12-10-2026| music "神様みたいに": 67% (170.298/254s)
+[1]Devina      |16:50:30 | 12-10-2026| music "神様みたいに": 70% (180.2592/254s)
+[1]Devina      |16:50:41 | 12-10-2026| music "神様みたいに": 75% (191.0214/254s)
+[1]Devina      |16:50:52 | 12-10-2026| music "神様みたいに": 79% (201.4965/254s)
+[1]Devina      |16:51:04 | 12-10-2026| music "神様みたいに": 83% (211.4757/254s)
+[1]Devina      |16:51:04 | 12-10-2026| music "神様みたいに": selesai 211.4757s
+[1]Devina      |16:51:06 | 12-10-2026| music memutar "せーので、飛ぼう！" (269s)...
+[1]Devina      |16:51:18 | 12-10-2026| music "せーので、飛ぼう！": 3% (9.0009/269s)
+[1]Devina      |16:51:29 | 12-10-2026| music "せーので、飛ぼう！": 7% (19.157400000000003/269s)
+[1]Devina      |16:51:40 | 12-10-2026| music "せーので、飛ぼう！": 10% (29.1798/269s)
+[1]Devina      |16:51:51 | 12-10-2026| music "せーので、飛ぼう！": 14% (39.342600000000004/269s)
+[1]Devina      |16:52:02 | 12-10-2026| music "せーので、飛ぼう！": 18% (49.29750000000001/269s)
+[1]Devina      |16:52:14 | 12-10-2026| music "せーので、飛ぼう！": 22% (59.26500000000001/269s)
+[1]Devina      |16:52:25 | 12-10-2026| music "せーので、飛ぼう！": 26% (70.2432/269s)
+[1]Devina      |16:52:36 | 12-10-2026| music "せーので、飛ぼう！": 29% (80.1342/269s)
+[1]Devina      |16:52:48 | 12-10-2026| music "せーので、飛ぼう！": 33% (90.063/269s)
+[1]Devina      |16:52:59 | 12-10-2026| music "せーので、飛ぼう！": 37% (100.3086/269s)
+[1]Devina      |16:53:10 | 12-10-2026| music "せーので、飛ぼう！": 40% (110.1609/269s)
+[1]Devina      |16:53:21 | 12-10-2026| music "せーので、飛ぼう！": 44% (120.21119999999999/269s)
+[1]Devina      |16:53:33 | 12-10-2026| music "せーので、飛ぼう！": 48% (130.66379999999998/269s)
+[1]Devina      |16:53:44 | 12-10-2026| music "せーので、飛ぼう！": 52% (141.04529999999997/269s)
+[1]Devina      |16:53:56 | 12-10-2026| music "せーので、飛ぼう！": 56% (151.27919999999997/269s)
+[1]Devina      |16:54:07 | 12-10-2026| music "せーので、飛ぼう！": 60% (161.71739999999997/269s)
+[1]Devina      |16:54:19 | 12-10-2026| music "せーので、飛ぼう！": 63% (171.98279999999997/269s)
+[1]Devina      |16:54:30 | 12-10-2026| music "せーので、飛ぼう！": 67% (182.63519999999997/269s)
+[1]Devina      |16:54:41 | 12-10-2026| music "せーので、飛ぼう！": 71% (192.75839999999997/269s)
+[1]Devina      |16:54:53 | 12-10-2026| music "せーので、飛ぼう！": 75% (202.67279999999997/269s)
+[1]Devina      |16:55:04 | 12-10-2026| music "せーので、飛ぼう！": 79% (212.82209999999998/269s)
+[1]Devina      |16:55:15 | 12-10-2026| music "せーので、飛ぼう！": 82% (223.08839999999998/269s)
+[1]Devina      |16:55:16 | 12-10-2026| music "せーので、飛ぼう！": selesai 223.08839999999998s
+[1]Devina      |16:55:20 | 12-10-2026| music memutar "ON CHAIN NEXUS" (276s)...
+[1]Devina      |16:55:31 | 12-10-2026| music "ON CHAIN NEXUS": 3% (9.0045/276s)
+[1]Devina      |16:55:42 | 12-10-2026| music "ON CHAIN NEXUS": 6% (19.2852/276s)
+[1]Devina      |16:55:54 | 12-10-2026| music "ON CHAIN NEXUS": 10% (29.1843/276s)
+[1]Devina      |16:56:05 | 12-10-2026| music "ON CHAIN NEXUS": 14% (39.676500000000004/276s)
+[1]Devina      |16:56:16 | 12-10-2026| music "ON CHAIN NEXUS": 18% (50.130900000000004/276s)
+[1]Devina      |16:56:28 | 12-10-2026| music "ON CHAIN NEXUS": 21% (60.151500000000006/276s)
+[1]Devina      |16:56:39 | 12-10-2026| music "ON CHAIN NEXUS": 25% (70.43400000000001/276s)
+[1]Devina      |16:56:51 | 12-10-2026| music "ON CHAIN NEXUS": 29% (80.64630000000001/276s)
+[1]Devina      |16:57:02 | 12-10-2026| music "ON CHAIN NEXUS": 33% (91.09080000000002/276s)
+[1]Devina      |16:57:13 | 12-10-2026| music "ON CHAIN NEXUS": 36% (100.90890000000002/276s)
+[1]Devina      |16:57:25 | 12-10-2026| music "ON CHAIN NEXUS": 40% (110.97360000000002/276s)
+[1]Devina      |16:57:36 | 12-10-2026| music "ON CHAIN NEXUS": 44% (121.73400000000002/276s)
+[1]Devina      |16:57:47 | 12-10-2026| music "ON CHAIN NEXUS": 47% (131.74110000000002/276s)
+[1]Devina      |16:57:58 | 12-10-2026| music "ON CHAIN NEXUS": 51% (141.60420000000002/276s)
+[1]Devina      |16:58:09 | 12-10-2026| music "ON CHAIN NEXUS": 55% (151.8102/276s)
+[1]Devina      |16:58:21 | 12-10-2026| music "ON CHAIN NEXUS": 58% (161.8659/276s)
+[1]Devina      |16:58:33 | 12-10-2026| music "ON CHAIN NEXUS": 62% (172.31130000000002/276s)
+[1]Devina      |16:58:44 | 12-10-2026| music "ON CHAIN NEXUS": 66% (182.6442/276s)
+[1]Devina      |16:58:55 | 12-10-2026| music "ON CHAIN NEXUS": 69% (192.6594/276s)
+[1]Devina      |16:59:06 | 12-10-2026| music "ON CHAIN NEXUS": 73% (202.6971/276s)
+[1]Devina      |16:59:17 | 12-10-2026| music "ON CHAIN NEXUS": 77% (212.68890000000002/276s)
+[1]Devina      |16:59:28 | 12-10-2026| music "ON CHAIN NEXUS": 80% (222.56910000000002/276s)
+[1]Devina      |16:59:29 | 12-10-2026| music "ON CHAIN NEXUS": selesai 222.56910000000002s
+[1]Devina      |16:59:30 | 12-10-2026| music: kedua misi sudah tercapai, stop
+[1]Devina      |16:59:31 | 12-10-2026| mission music-listens-10: CLAIM OK +10 poin
+[1]Devina      |16:59:37 | 12-10-2026| mission music-minutes-30: CLAIM OK +10 poin
+[1]Devina      |16:59:41 | 12-10-2026| mission anime-completed-3: CLAIM OK +10 poin
 --> [1]Devina menjalankan: Claim Missions
-[1]Devina      |08:06:22 | 11-10-2026| missions ERROR: missions http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+[1]Devina      |16:59:44 | 12-10-2026| mission music-listens-10: sudah diklaim
+[1]Devina      |16:59:44 | 12-10-2026| mission music-minutes-30: sudah diklaim
+[1]Devina      |16:59:44 | 12-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Devina menjalankan: Check Eligibility
 
 --- eligibility [1]Devina ---
-  @devinasrya | score=920 rank=6370
-  tasks    [###################-] 73/76
-  missions: ERROR missions http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
-  quiz: ERROR quizzes http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
-  watch: ERROR watch-progress http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
-  music: ERROR music-progress http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
-  artikel: ERROR news-progress http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
-  mint: ERROR mint-eligibility http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+  @devinasrya | score=950 rank=6446
+  tasks    [##################--] 70/80
+  mission  music-listens-10:      claimed
+  mission  music-minutes-30:      claimed
+  mission  anime-completed-3:     claimed
+  quiz     [####################] 6/6
+  watch    [####################] 18/17
+  music    [####################] 11/11
+  artikel  [####################] 24/24
+  mint: requirementsMet=false mintOpen=false discord=true
 
 --> [1]Devina menjalankan: Read Manga
-[1]Devina      |08:06:24 | 11-10-2026| manga ERROR: manga-history http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+[1]Devina      |16:59:48 | 12-10-2026| manga: 13/13 chapter belum completed
+[1]Devina      |16:59:48 | 12-10-2026| manga [1/13] membaca ch.1 (19 hal)...
+[1]Devina      |16:59:53 | 12-10-2026| manga ch1 (1): page 1/19 (5%) 0s
+[1]Devina      |16:59:58 | 12-10-2026| manga ch1 (1): page 2/19 (10%) 4s
+[1]Devina      |17:00:02 | 12-10-2026| manga ch1 (1): page 3/19 (15%) 9s
+[1]Devina      |17:00:06 | 12-10-2026| manga ch1 (1): page 4/19 (21%) 13s
+[1]Devina      |17:00:11 | 12-10-2026| manga ch1 (1): page 5/19 (26%) 18s
+[1]Devina      |17:00:16 | 12-10-2026| manga ch1 (1): page 6/19 (31%) 22s
+[1]Devina      |17:00:20 | 12-10-2026| manga ch1 (1): page 7/19 (36%) 27s
+[1]Devina      |17:00:24 | 12-10-2026| manga ch1 (1): page 8/19 (42%) 31s
+[1]Devina      |17:00:29 | 12-10-2026| manga ch1 (1): page 9/19 (47%) 36s
+[1]Devina      |17:00:33 | 12-10-2026| manga ch1 (1): page 10/19 (52%) 40s
+[1]Devina      |17:00:38 | 12-10-2026| manga ch1 (1): page 11/19 (57%) 45s
+[1]Devina      |17:00:42 | 12-10-2026| manga ch1 (1): page 12/19 (63%) 49s
+[1]Devina      |17:00:47 | 12-10-2026| manga ch1 (1): page 13/19 (68%) 54s
+[1]Devina      |17:00:52 | 12-10-2026| manga ch1 (1): page 14/19 (73%) 58s
+[1]Devina      |17:00:56 | 12-10-2026| manga ch1 (1): page 15/19 (78%) 63s
+[1]Devina      |17:01:01 | 12-10-2026| manga ch1 (1): page 16/19 (84%) 68s
+[1]Devina      |17:01:05 | 12-10-2026| manga ch1 (1): page 17/19 (89%) 72s
+[1]Devina      |17:01:10 | 12-10-2026| manga ch1 (1): page 18/19 (94%) 77s
+[1]Devina      |17:01:15 | 12-10-2026| manga ch1 (1): page 19/19 (99%) 81s
+[1]Devina      |17:01:20 | 12-10-2026| manga ch1 (1): COMPLETED
+[1]Devina      |17:01:23 | 12-10-2026| manga [2/13] membaca ch.2 (18 hal)...
+[1]Devina      |17:01:29 | 12-10-2026| manga ch2 (450001): page 1/18 (5%) 0s
+[1]Devina      |17:01:34 | 12-10-2026| manga ch2 (450001): page 2/18 (11%) 5s
+[1]Devina      |17:01:38 | 12-10-2026| manga ch2 (450001): page 3/18 (16%) 9s
+[1]Devina      |17:01:43 | 12-10-2026| manga ch2 (450001): page 4/18 (22%) 14s
+[1]Devina      |17:01:48 | 12-10-2026| manga ch2 (450001): page 5/18 (27%) 19s
+[1]Devina      |17:01:52 | 12-10-2026| manga ch2 (450001): page 6/18 (33%) 23s
+[1]Devina      |17:01:57 | 12-10-2026| manga ch2 (450001): page 7/18 (38%) 28s
+[1]Devina      |17:02:02 | 12-10-2026| manga ch2 (450001): page 8/18 (44%) 32s
+[1]Devina      |17:02:06 | 12-10-2026| manga ch2 (450001): page 9/18 (50%) 37s
+[1]Devina      |17:02:11 | 12-10-2026| manga ch2 (450001): page 10/18 (55%) 41s
+[1]Devina      |17:02:16 | 12-10-2026| manga ch2 (450001): page 11/18 (61%) 46s
+[1]Devina      |17:02:22 | 12-10-2026| manga ch2 (450001): page 12/18 (66%) 51s
+[1]Devina      |17:02:27 | 12-10-2026| manga ch2 (450001): page 13/18 (72%) 58s
+[1]Devina      |17:02:31 | 12-10-2026| manga ch2 (450001): page 14/18 (77%) 62s
+[1]Devina      |17:02:36 | 12-10-2026| manga ch2 (450001): page 15/18 (83%) 67s
+[1]Devina      |17:02:40 | 12-10-2026| manga ch2 (450001): page 16/18 (88%) 71s
+[1]Devina      |17:02:45 | 12-10-2026| manga ch2 (450001): page 17/18 (94%) 76s
+[1]Devina      |17:02:50 | 12-10-2026| manga ch2 (450001): page 18/18 (99%) 81s
+[1]Devina      |17:02:55 | 12-10-2026| manga ch2 (450001): COMPLETED
+[1]Devina      |17:02:58 | 12-10-2026| manga [3/13] membaca ch.3 (17 hal)...
+[1]Devina      |17:03:04 | 12-10-2026| manga ch3 (2160001): page 1/17 (5%) 0s
+[1]Devina      |17:03:08 | 12-10-2026| manga ch3 (2160001): page 2/17 (11%) 4s
+[1]Devina      |17:03:14 | 12-10-2026| manga ch3 (2160001): page 3/17 (17%) 9s
+[1]Devina      |17:03:18 | 12-10-2026| manga ch3 (2160001): page 4/17 (23%) 15s
+[1]Devina      |17:03:23 | 12-10-2026| manga ch3 (2160001): page 5/17 (29%) 19s
+[1]Devina      |17:03:27 | 12-10-2026| manga ch3 (2160001): page 6/17 (35%) 24s
+[1]Devina      |17:03:32 | 12-10-2026| manga ch3 (2160001): page 7/17 (41%) 28s
+[1]Devina      |17:03:36 | 12-10-2026| manga ch3 (2160001): page 8/17 (47%) 33s
+[1]Devina      |17:03:41 | 12-10-2026| manga ch3 (2160001): page 9/17 (52%) 37s
+[1]Devina      |17:03:45 | 12-10-2026| manga ch3 (2160001): page 10/17 (58%) 41s
+[1]Devina      |17:03:50 | 12-10-2026| manga ch3 (2160001): page 11/17 (64%) 46s
+[1]Devina      |17:03:54 | 12-10-2026| manga ch3 (2160001): page 12/17 (70%) 50s
+[1]Devina      |17:03:58 | 12-10-2026| manga ch3 (2160001): page 13/17 (76%) 55s
+[1]Devina      |17:04:03 | 12-10-2026| manga ch3 (2160001): page 14/17 (82%) 59s
+[1]Devina      |17:04:07 | 12-10-2026| manga ch3 (2160001): page 15/17 (88%) 63s
+[1]Devina      |17:04:12 | 12-10-2026| manga ch3 (2160001): page 16/17 (94%) 68s
+[1]Devina      |17:04:16 | 12-10-2026| manga ch3 (2160001): page 17/17 (99%) 72s
+[1]Devina      |17:04:21 | 12-10-2026| manga ch3 (2160001): COMPLETED
+[1]Devina      |17:04:24 | 12-10-2026| manga [4/13] membaca ch.4 (17 hal)...
+[1]Devina      |17:04:30 | 12-10-2026| manga ch4 (2400001): page 1/17 (5%) 0s
+[1]Devina      |17:04:35 | 12-10-2026| manga ch4 (2400001): page 2/17 (11%) 5s
+[1]Devina      |17:04:39 | 12-10-2026| manga ch4 (2400001): page 3/17 (17%) 9s
+[1]Devina      |17:04:44 | 12-10-2026| manga ch4 (2400001): page 4/17 (23%) 14s
+[1]Devina      |17:04:49 | 12-10-2026| manga ch4 (2400001): page 5/17 (29%) 19s
+[1]Devina      |17:04:53 | 12-10-2026| manga ch4 (2400001): page 6/17 (35%) 23s
+[1]Devina      |17:04:58 | 12-10-2026| manga ch4 (2400001): page 7/17 (41%) 28s
+[1]Devina      |17:05:02 | 12-10-2026| manga ch4 (2400001): page 8/17 (47%) 32s
+[1]Devina      |17:05:07 | 12-10-2026| manga ch4 (2400001): page 9/17 (52%) 37s
+[1]Devina      |17:05:12 | 12-10-2026| manga ch4 (2400001): page 10/17 (58%) 42s
+[1]Devina      |17:05:16 | 12-10-2026| manga ch4 (2400001): page 11/17 (64%) 46s
+[1]Devina      |17:05:21 | 12-10-2026| manga ch4 (2400001): page 12/17 (70%) 51s
+[1]Devina      |17:05:25 | 12-10-2026| manga ch4 (2400001): page 13/17 (76%) 55s
+[1]Devina      |17:05:30 | 12-10-2026| manga ch4 (2400001): page 14/17 (82%) 60s
+[1]Devina      |17:05:34 | 12-10-2026| manga ch4 (2400001): page 15/17 (88%) 64s
+[1]Devina      |17:05:39 | 12-10-2026| manga ch4 (2400001): page 16/17 (94%) 69s
+[1]Devina      |17:05:43 | 12-10-2026| manga ch4 (2400001): page 17/17 (99%) 73s
+[1]Devina      |17:05:48 | 12-10-2026| manga ch4 (2400001): COMPLETED
+[1]Devina      |17:05:51 | 12-10-2026| manga [5/13] membaca ch.5 (18 hal)...
+[1]Devina      |17:05:56 | 12-10-2026| manga ch5 (2490001): page 1/18 (5%) 0s
+[1]Devina      |17:06:01 | 12-10-2026| manga ch5 (2490001): page 2/18 (11%) 4s
+[1]Devina      |17:06:05 | 12-10-2026| manga ch5 (2490001): page 3/18 (16%) 9s
+[1]Devina      |17:06:10 | 12-10-2026| manga ch5 (2490001): page 4/18 (22%) 13s
+[1]Devina      |17:06:14 | 12-10-2026| manga ch5 (2490001): page 5/18 (27%) 18s
+[1]Devina      |17:06:19 | 12-10-2026| manga ch5 (2490001): page 6/18 (33%) 23s
+[1]Devina      |17:06:25 | 12-10-2026| manga ch5 (2490001): page 7/18 (38%) 28s
+[1]Devina      |17:06:29 | 12-10-2026| manga ch5 (2490001): page 8/18 (44%) 33s
+[1]Devina      |17:06:34 | 12-10-2026| manga ch5 (2490001): page 9/18 (50%) 38s
+[1]Devina      |17:06:39 | 12-10-2026| manga ch5 (2490001): page 10/18 (55%) 42s
+[1]Devina      |17:06:44 | 12-10-2026| manga ch5 (2490001): page 11/18 (61%) 47s
+[1]Devina      |17:06:48 | 12-10-2026| manga ch5 (2490001): page 12/18 (66%) 52s
+[1]Devina      |17:06:53 | 12-10-2026| manga ch5 (2490001): page 13/18 (72%) 57s
+[1]Devina      |17:06:57 | 12-10-2026| manga ch5 (2490001): page 14/18 (77%) 61s
+[1]Devina      |17:07:02 | 12-10-2026| manga ch5 (2490001): page 15/18 (83%) 66s
+[1]Devina      |17:07:07 | 12-10-2026| manga ch5 (2490001): page 16/18 (88%) 70s
+[1]Devina      |17:07:11 | 12-10-2026| manga ch5 (2490001): page 17/18 (94%) 75s
+[1]Devina      |17:07:16 | 12-10-2026| manga ch5 (2490001): page 18/18 (99%) 79s
+[1]Devina      |17:07:21 | 12-10-2026| manga ch5 (2490001): COMPLETED
+[1]Devina      |17:07:24 | 12-10-2026| manga [6/13] membaca ch.6 (17 hal)...
+[1]Devina      |17:07:30 | 12-10-2026| manga ch6 (2610001): page 1/17 (5%) 0s
+[1]Devina      |17:07:35 | 12-10-2026| manga ch6 (2610001): page 2/17 (11%) 5s
+[1]Devina      |17:07:41 | 12-10-2026| manga ch6 (2610001): page 3/17 (17%) 10s
+[1]Devina      |17:08:00 | 12-10-2026| manga ch6 (2610001): page 4/17 (23%) 16s
+[1]Devina      |17:08:05 | 12-10-2026| manga ch6 (2610001): page 5/17 (29%) 26s
+[1]Devina      |17:08:10 | 12-10-2026| manga ch6 (2610001): page 6/17 (35%) 31s
+[1]Devina      |17:08:15 | 12-10-2026| manga ch6 (2610001): page 7/17 (41%) 36s
+[1]Devina      |17:08:19 | 12-10-2026| manga ch6 (2610001): page 8/17 (47%) 41s
+[1]Devina      |17:08:24 | 12-10-2026| manga ch6 (2610001): page 9/17 (52%) 45s
+[1]Devina      |17:08:29 | 12-10-2026| manga ch6 (2610001): page 10/17 (58%) 50s
+[1]Devina      |17:08:33 | 12-10-2026| manga ch6 (2610001): page 11/17 (64%) 54s
+[1]Devina      |17:08:38 | 12-10-2026| manga ch6 (2610001): page 12/17 (70%) 59s
+[1]Devina      |17:08:42 | 12-10-2026| manga ch6 (2610001): page 13/17 (76%) 63s
+[1]Devina      |17:08:47 | 12-10-2026| manga ch6 (2610001): page 14/17 (82%) 68s
+[1]Devina      |17:08:51 | 12-10-2026| manga ch6 (2610001): page 15/17 (88%) 73s
+[1]Devina      |17:08:56 | 12-10-2026| manga ch6 (2610001): page 16/17 (94%) 77s
+[1]Devina      |17:09:01 | 12-10-2026| manga ch6 (2610001): page 17/17 (99%) 82s
+[1]Devina      |17:09:06 | 12-10-2026| manga ch6 (2610001): COMPLETED
+[1]Devina      |17:09:09 | 12-10-2026| manga [7/13] membaca ch.1 (21 hal)...
+[1]Devina      |17:09:15 | 12-10-2026| manga ch1 (180003): page 1/21 (4%) 0s
+[1]Devina      |17:09:20 | 12-10-2026| manga ch1 (180003): page 2/21 (9%) 4s
+[1]Devina      |17:09:24 | 12-10-2026| manga ch1 (180003): page 3/21 (14%) 9s
+[1]Devina      |17:09:29 | 12-10-2026| manga ch1 (180003): page 4/21 (19%) 14s
+[1]Devina      |17:09:34 | 12-10-2026| manga ch1 (180003): page 5/21 (23%) 18s
+[1]Devina      |17:09:38 | 12-10-2026| manga ch1 (180003): page 6/21 (28%) 23s
+[1]Devina      |17:09:43 | 12-10-2026| manga ch1 (180003): page 7/21 (33%) 28s
+[1]Devina      |17:09:47 | 12-10-2026| manga ch1 (180003): page 8/21 (38%) 32s
+[1]Devina      |17:09:52 | 12-10-2026| manga ch1 (180003): page 9/21 (42%) 37s
+[1]Devina      |17:09:57 | 12-10-2026| manga ch1 (180003): page 10/21 (47%) 41s
+[1]Devina      |17:10:01 | 12-10-2026| manga ch1 (180003): page 11/21 (52%) 46s
+[1]Devina      |17:10:05 | 12-10-2026| manga ch1 (180003): page 12/21 (57%) 50s
+[1]Devina      |17:10:10 | 12-10-2026| manga ch1 (180003): page 13/21 (61%) 55s
+[1]Devina      |17:10:16 | 12-10-2026| manga ch1 (180003): page 14/21 (66%) 60s
+[1]Devina      |17:10:20 | 12-10-2026| manga ch1 (180003): page 15/21 (71%) 65s
+[1]Devina      |17:10:25 | 12-10-2026| manga ch1 (180003): page 16/21 (76%) 70s
+[1]Devina      |17:10:30 | 12-10-2026| manga ch1 (180003): page 17/21 (80%) 75s
+[1]Devina      |17:10:35 | 12-10-2026| manga ch1 (180003): page 18/21 (85%) 80s
+[1]Devina      |17:10:40 | 12-10-2026| manga ch1 (180003): page 19/21 (90%) 84s
+[1]Devina      |17:10:45 | 12-10-2026| manga ch1 (180003): page 20/21 (95%) 89s
+[1]Devina      |17:10:49 | 12-10-2026| manga ch1 (180003): page 21/21 (99%) 94s
+[1]Devina      |17:10:54 | 12-10-2026| manga ch1 (180003): COMPLETED
+[1]Devina      |17:10:57 | 12-10-2026| manga [8/13] membaca ch.2 (18 hal)...
+[1]Devina      |17:11:02 | 12-10-2026| manga ch2 (990005): page 1/18 (5%) 0s
+[1]Devina      |17:11:07 | 12-10-2026| manga ch2 (990005): page 2/18 (11%) 4s
+[1]Devina      |17:11:12 | 12-10-2026| manga ch2 (990005): page 3/18 (16%) 10s
+[1]Devina      |17:11:17 | 12-10-2026| manga ch2 (990005): page 4/18 (22%) 14s
+[1]Devina      |17:11:21 | 12-10-2026| manga ch2 (990005): page 5/18 (27%) 19s
+[1]Devina      |17:11:26 | 12-10-2026| manga ch2 (990005): page 6/18 (33%) 23s
+[1]Devina      |17:11:31 | 12-10-2026| manga ch2 (990005): page 7/18 (38%) 28s
+[1]Devina      |17:11:36 | 12-10-2026| manga ch2 (990005): page 8/18 (44%) 33s
+[1]Devina      |17:11:40 | 12-10-2026| manga ch2 (990005): page 9/18 (50%) 38s
+[1]Devina      |17:11:45 | 12-10-2026| manga ch2 (990005): page 10/18 (55%) 43s
+[1]Devina      |17:11:50 | 12-10-2026| manga ch2 (990005): page 11/18 (61%) 48s
+[1]Devina      |17:11:55 | 12-10-2026| manga ch2 (990005): page 12/18 (66%) 53s
+[1]Devina      |17:12:00 | 12-10-2026| manga ch2 (990005): page 13/18 (72%) 57s
+[1]Devina      |17:12:06 | 12-10-2026| manga ch2 (990005): page 14/18 (77%) 62s
+[1]Devina      |17:12:10 | 12-10-2026| manga ch2 (990005): page 15/18 (83%) 68s
+[1]Devina      |17:12:15 | 12-10-2026| manga ch2 (990005): page 16/18 (88%) 72s
+[1]Devina      |17:12:20 | 12-10-2026| manga ch2 (990005): page 17/18 (94%) 77s
+[1]Devina      |17:12:25 | 12-10-2026| manga ch2 (990005): page 18/18 (99%) 82s
+[1]Devina      |17:12:30 | 12-10-2026| manga ch2 (990005): COMPLETED
+[1]Devina      |17:12:33 | 12-10-2026| manga [9/13] membaca ch.3 (20 hal)...
+[1]Devina      |17:12:39 | 12-10-2026| manga ch3 (1980001): page 1/20 (5%) 0s
+[1]Devina      |17:12:44 | 12-10-2026| manga ch3 (1980001): page 2/20 (10%) 5s
+[1]Devina      |17:12:50 | 12-10-2026| manga ch3 (1980001): page 3/20 (15%) 10s
+[1]Devina      |17:12:54 | 12-10-2026| manga ch3 (1980001): page 4/20 (20%) 15s
+[1]Devina      |17:12:59 | 12-10-2026| manga ch3 (1980001): page 5/20 (25%) 19s
+[1]Devina      |17:13:04 | 12-10-2026| manga ch3 (1980001): page 6/20 (30%) 24s
+[1]Devina      |17:13:09 | 12-10-2026| manga ch3 (1980001): page 7/20 (35%) 29s
+[1]Devina      |17:13:15 | 12-10-2026| manga ch3 (1980001): page 8/20 (40%) 34s
+[1]Devina      |17:13:20 | 12-10-2026| manga ch3 (1980001): page 9/20 (45%) 40s
+[1]Devina      |17:13:25 | 12-10-2026| manga ch3 (1980001): page 10/20 (50%) 46s
+[1]Devina      |17:13:30 | 12-10-2026| manga ch3 (1980001): page 11/20 (55%) 50s
+[1]Devina      |17:13:35 | 12-10-2026| manga ch3 (1980001): page 12/20 (60%) 55s
+[1]Devina      |17:13:40 | 12-10-2026| manga ch3 (1980001): page 13/20 (65%) 60s
+[1]Devina      |17:13:44 | 12-10-2026| manga ch3 (1980001): page 14/20 (70%) 65s
+[1]Devina      |17:13:49 | 12-10-2026| manga ch3 (1980001): page 15/20 (75%) 70s
+[1]Devina      |17:13:53 | 12-10-2026| manga ch3 (1980001): page 16/20 (80%) 74s
+[1]Devina      |17:13:58 | 12-10-2026| manga ch3 (1980001): page 17/20 (85%) 78s
+[1]Devina      |17:14:02 | 12-10-2026| manga ch3 (1980001): page 18/20 (90%) 83s
+[1]Devina      |17:14:07 | 12-10-2026| manga ch3 (1980001): page 19/20 (95%) 87s
+[1]Devina      |17:14:11 | 12-10-2026| manga ch3 (1980001): page 20/20 (99%) 92s
+[1]Devina      |17:14:16 | 12-10-2026| manga ch3 (1980001): COMPLETED
+[1]Devina      |17:14:19 | 12-10-2026| manga [10/13] membaca ch.1 (9 hal)...
+[1]Devina      |17:14:25 | 12-10-2026| manga ch1 (2100001): page 1/9 (11%) 0s
+[1]Devina      |17:14:30 | 12-10-2026| manga ch1 (2100001): page 2/9 (22%) 5s
+[1]Devina      |17:14:35 | 12-10-2026| manga ch1 (2100001): page 3/9 (33%) 10s
+[1]Devina      |17:14:40 | 12-10-2026| manga ch1 (2100001): page 4/9 (44%) 14s
+[1]Devina      |17:14:45 | 12-10-2026| manga ch1 (2100001): page 5/9 (55%) 19s
+[1]Devina      |17:14:50 | 12-10-2026| manga ch1 (2100001): page 6/9 (66%) 25s
+[1]Devina      |17:14:55 | 12-10-2026| manga ch1 (2100001): page 7/9 (77%) 29s
+[1]Devina      |17:15:00 | 12-10-2026| manga ch1 (2100001): page 8/9 (88%) 35s
+[1]Devina      |17:15:05 | 12-10-2026| manga ch1 (2100001): page 9/9 (99%) 40s
+[1]Devina      |17:15:10 | 12-10-2026| manga ch1 (2100001): COMPLETED
+[1]Devina      |17:15:13 | 12-10-2026| manga [11/13] membaca ch.1 (10 hal)...
+[1]Devina      |17:15:18 | 12-10-2026| manga ch1 (2070001): page 1/10 (10%) 0s
+[1]Devina      |17:15:23 | 12-10-2026| manga ch1 (2070001): page 2/10 (20%) 5s
+[1]Devina      |17:15:27 | 12-10-2026| manga ch1 (2070001): page 3/10 (30%) 9s
+[1]Devina      |17:15:32 | 12-10-2026| manga ch1 (2070001): page 4/10 (40%) 13s
+[1]Devina      |17:15:36 | 12-10-2026| manga ch1 (2070001): page 5/10 (50%) 18s
+[1]Devina      |17:15:41 | 12-10-2026| manga ch1 (2070001): page 6/10 (60%) 22s
+[1]Devina      |17:15:45 | 12-10-2026| manga ch1 (2070001): page 7/10 (70%) 27s
+[1]Devina      |17:15:50 | 12-10-2026| manga ch1 (2070001): page 8/10 (80%) 32s
+[1]Devina      |17:15:55 | 12-10-2026| manga ch1 (2070001): page 9/10 (90%) 36s
+[1]Devina      |17:16:00 | 12-10-2026| manga ch1 (2070001): page 10/10 (99%) 41s
+[1]Devina      |17:16:04 | 12-10-2026| manga ch1 (2070001): COMPLETED
+[1]Devina      |17:16:07 | 12-10-2026| manga [12/13] membaca ch.2 (11 hal)...
+[1]Devina      |17:16:13 | 12-10-2026| manga ch2 (2520001): page 1/11 (9%) 0s
+[1]Devina      |17:16:17 | 12-10-2026| manga ch2 (2520001): page 2/11 (18%) 5s
+[1]Devina      |17:16:22 | 12-10-2026| manga ch2 (2520001): page 3/11 (27%) 9s
+[1]Devina      |17:16:27 | 12-10-2026| manga ch2 (2520001): page 4/11 (36%) 14s
+[1]Devina      |17:16:31 | 12-10-2026| manga ch2 (2520001): page 5/11 (45%) 18s
+[1]Devina      |17:16:36 | 12-10-2026| manga ch2 (2520001): page 6/11 (54%) 23s
+[1]Devina      |17:16:40 | 12-10-2026| manga ch2 (2520001): page 7/11 (63%) 27s
+[1]Devina      |17:16:45 | 12-10-2026| manga ch2 (2520001): page 8/11 (72%) 32s
+[1]Devina      |17:16:49 | 12-10-2026| manga ch2 (2520001): page 9/11 (81%) 37s
+[1]Devina      |17:16:54 | 12-10-2026| manga ch2 (2520001): page 10/11 (90%) 41s
+[1]Devina      |17:16:59 | 12-10-2026| manga ch2 (2520001): page 11/11 (99%) 46s
+[1]Devina      |17:17:03 | 12-10-2026| manga ch2 (2520001): COMPLETED
+[1]Devina      |17:17:06 | 12-10-2026| manga [13/13] membaca ch.3 (11 hal)...
+[1]Devina      |17:17:12 | 12-10-2026| manga ch3 (2550001): page 1/11 (9%) 0s
+[1]Devina      |17:17:16 | 12-10-2026| manga ch3 (2550001): page 2/11 (18%) 5s
+[1]Devina      |17:17:21 | 12-10-2026| manga ch3 (2550001): page 3/11 (27%) 9s
+[1]Devina      |17:17:25 | 12-10-2026| manga ch3 (2550001): page 4/11 (36%) 14s
+[1]Devina      |17:17:30 | 12-10-2026| manga ch3 (2550001): page 5/11 (45%) 18s
+[1]Devina      |17:17:38 | 12-10-2026| manga ch3 (2550001): page 6/11 (54%) 23s
+[1]Devina      |17:17:43 | 12-10-2026| manga ch3 (2550001): page 7/11 (63%) 30s
+[1]Devina      |17:17:48 | 12-10-2026| manga ch3 (2550001): page 8/11 (72%) 36s
+[1]Devina      |17:17:52 | 12-10-2026| manga ch3 (2550001): page 9/11 (81%) 40s
+[1]Devina      |17:17:56 | 12-10-2026| manga ch3 (2550001): page 10/11 (90%) 45s
+[1]Devina      |17:18:01 | 12-10-2026| manga ch3 (2550001): page 11/11 (99%) 49s
+[1]Devina      |17:18:05 | 12-10-2026| manga ch3 (2550001): COMPLETED
 --> [1]Devina menjalankan: Get Gift
-[1]Devina      |08:06:24 | 11-10-2026| gift ERROR: gifts http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+[1]Devina      |17:18:09 | 12-10-2026| gift: 3/3 belum diterima
+[1]Devina      |17:18:10 | 12-10-2026| gift [1/3] Oshii’s space studio overlooking Earth: OK
+[1]Devina      |17:18:14 | 12-10-2026| gift [2/3] Osshi animated stickers: OK
+[1]Devina      |17:18:17 | 12-10-2026| gift [3/3] Oshii and friends above the sunrise clouds: OK
 --> [1]Devina menjalankan: Setup Profile
-[1]Devina      |08:06:24 | 11-10-2026| profile ERROR: member-settings http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+[1]Devina      |17:18:19 | 12-10-2026| profile: bio="" fav=- rewardAt=-
+[1]Devina      |17:18:21 | 12-10-2026| profile: OK bio="https://x.com/devinasrya" fav=amato awarded=true +10pt
 --> [1]Devina menjalankan: Bind Wallet
-[1]Devina      |08:06:24 | 11-10-2026| wallet ERROR: member-settings http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+[1]Devina      |17:18:21 | 12-10-2026| wallet: sudah terikat 3LEJ53GcJW... (solana)
 
 == RINGKASAN ==
-- Devina: daily=already | tasks OK 4/4 | misi klaim 0 (+0pt) | kuis benar 6 (+0pt) | watch 1/1 completed | musik 2 trek ~242.94870000000003s | artikel 0 dibaca | manga 0/0 completed | gift 0/0 diterima | profile - | wallet -
+- Devina: daily=claimed | tasks OK 11/11 | misi klaim 0 (+0pt) | kuis benar 6 (+0pt) | watch 0/0 completed | musik 5 trek ~1028.5704s | artikel 0 dibaca | manga 13/13 completed | gift 3/3 diterima | profile +10pt | wallet bound | mint req=false open=false
