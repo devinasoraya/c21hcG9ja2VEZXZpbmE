@@ -12,147 +12,87 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
 
 
 ===== [1/1] Devina =====
-[1]Devina      |09:54:47 | 20-10-2026| login OK @devinasrya | score=1530 rank=4596
-[1]Devina      |09:54:47 | 20-10-2026| serverTime=2026-10-20T09:54:47.000Z local=2026-10-20T09:54:47.943Z
+[1]Devina      |09:55:50 | 21-10-2026| login OK @devinasrya | score=1590 rank=4486
+[1]Devina      |09:55:50 | 21-10-2026| serverTime=2026-10-21T09:55:50.000Z local=2026-10-21T09:55:50.390Z
 --> [1]Devina menjalankan: Claim Daily
-[1]Devina      |09:54:48 | 20-10-2026| daily: OK +10 poin score=1540
---> [1]Devina menjalankan: Auto All Tasks (5 pending)
-[1]Devina      |09:54:50 | 20-10-2026| [1/5] f8ede5f6 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/devinasrya/status/2112482094252793132
-[1]Devina      |09:54:50 | 20-10-2026| delay 10s...
-[1]Devina      |09:55:03 | 20-10-2026| [2/5] 6e765bbf (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/devinasrya/status/2112482269602483618
-[1]Devina      |09:55:03 | 20-10-2026| delay 10s...
-[1]Devina      |09:55:32 | 20-10-2026| [3/5] ecdd3dc8 (reply) verify GAGAL http=503 resp={"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"} | proof=https://x.com/devinasrya/status/2112482323621603200
-[1]Devina      |09:55:32 | 20-10-2026| delay 10s...
-[1]Devina      |09:55:44 | 20-10-2026| [4/5] f533191c (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/devinasrya/status/2112482578406874473
-[1]Devina      |09:55:44 | 20-10-2026| delay 10s...
-[1]Devina      |09:55:56 | 20-10-2026| [5/5] 8ff68dcd (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/devinasrya/status/2112482489821091084
-[1]Devina      |09:55:56 | 20-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
-[1]Devina      |09:55:57 | 20-10-2026| [1/1] f8ede5f6 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2112200949674791 | proof=https://x.com/devinasrya/status/2112482639991309242
+[1]Devina      |09:55:51 | 21-10-2026| daily: OK +10 poin score=1600
+--> [1]Devina menjalankan: Auto All Tasks (6 pending)
+[1]Devina      |09:55:54 | 21-10-2026| [1/6] 3ce7cf77 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"3ce7cf77-cd3a-40d4-a2ae-eee75a10472d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211275255741227 | proof=https://x.com/devinasrya/status/2112844697135082747
+[1]Devina      |09:55:54 | 21-10-2026| delay 10s...
+[1]Devina      |09:56:06 | 21-10-2026| [2/6] 67a9776a (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"3ce7cf77-cd3a-40d4-a2ae-eee75a10472d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211275255741227 | proof=https://x.com/devinasrya/status/2112844834396957597
+[1]Devina      |09:56:06 | 21-10-2026| delay 10s...
+[1]Devina      |09:56:19 | 21-10-2026| [3/6] e90ce04d (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"3ce7cf77-cd3a-40d4-a2ae-eee75a10472d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211275255741227 | proof=https://x.com/devinasrya/status/2112844847767933225
+[1]Devina      |09:56:19 | 21-10-2026| delay 10s...
+[1]Devina      |09:56:31 | 21-10-2026| [4/6] 06ee5b2a (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"3ce7cf77-cd3a-40d4-a2ae-eee75a10472d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211275255741227 | proof=https://x.com/devinasrya/status/2112845048765444338
+[1]Devina      |09:56:31 | 21-10-2026| delay 10s...
+[1]Devina      |09:56:44 | 21-10-2026| [5/6] 6e666982 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"3ce7cf77-cd3a-40d4-a2ae-eee75a10472d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211275255741227 | proof=https://x.com/devinasrya/status/2112844928151070921
+[1]Devina      |09:56:44 | 21-10-2026| delay 10s...
+[1]Devina      |09:56:57 | 21-10-2026| [6/6] bd8c2f19 (link) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"3ce7cf77-cd3a-40d4-a2ae-eee75a10472d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211275255741227
+[1]Devina      |09:56:57 | 21-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Devina      |09:56:59 | 21-10-2026| [1/1] 3ce7cf77 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"3ce7cf77-cd3a-40d4-a2ae-eee75a10472d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2112752557412274 | proof=https://x.com/devinasrya/status/2112845239072368487
 --> [1]Devina menjalankan: Watch Anime
-[1]Devina      |09:56:01 | 20-10-2026| watch: 4 video belum completed: oshi-captains-hat,oshi-rainbow-star,oshi-rainbow-lighthouse,bakeru-ikesou-jan-mv
-[1]Devina      |09:56:01 | 20-10-2026| watch [1/4] farming oshi-captains-hat...
-[1]Devina      |09:56:03 | 20-10-2026| watch oshi-captains-hat: 0% (0.00/92.00s)
-[1]Devina      |09:56:09 | 20-10-2026| watch oshi-captains-hat: 5% (5.08/92.00s)
-[1]Devina      |09:56:15 | 20-10-2026| watch oshi-captains-hat: 11% (10.47/92.00s)
-[1]Devina      |09:56:21 | 20-10-2026| watch oshi-captains-hat: 17% (15.81/92.00s)
-[1]Devina      |09:56:28 | 20-10-2026| watch oshi-captains-hat: 23% (21.28/92.00s)
-[1]Devina      |09:56:34 | 20-10-2026| watch oshi-captains-hat: 29% (27.16/92.00s)
-[1]Devina      |09:56:40 | 20-10-2026| watch oshi-captains-hat: 35% (33.00/92.00s)
-[1]Devina      |09:56:46 | 20-10-2026| watch oshi-captains-hat: 41% (38.39/92.00s)
-[1]Devina      |09:56:52 | 20-10-2026| watch oshi-captains-hat: 47% (43.71/92.00s)
-[1]Devina      |09:56:58 | 20-10-2026| watch oshi-captains-hat: 53% (49.35/92.00s)
-[1]Devina      |09:57:04 | 20-10-2026| watch oshi-captains-hat: 59% (55.16/92.00s)
-[1]Devina      |09:57:10 | 20-10-2026| watch oshi-captains-hat: 65% (60.60/92.00s)
-[1]Devina      |09:57:17 | 20-10-2026| watch oshi-captains-hat: 71% (66.00/92.00s)
-[1]Devina      |09:57:23 | 20-10-2026| watch oshi-captains-hat: 78% (71.82/92.00s)
-[1]Devina      |09:57:29 | 20-10-2026| watch oshi-captains-hat: 83% (77.19/92.00s)
-[1]Devina      |09:57:35 | 20-10-2026| watch oshi-captains-hat: 89% (82.77/92.00s)
-[1]Devina      |09:57:41 | 20-10-2026| watch oshi-captains-hat: 96% (88.45/92.00s)
-[1]Devina      |09:57:41 | 20-10-2026| watch oshi-captains-hat: COMPLETED (88.45/92.00s)
-[1]Devina      |09:57:46 | 20-10-2026| watch [2/4] farming oshi-rainbow-star...
-[1]Devina      |09:57:48 | 20-10-2026| watch oshi-rainbow-star: 0% (0.00/86.00s)
-[1]Devina      |09:57:54 | 20-10-2026| watch oshi-rainbow-star: 5% (5.09/86.00s)
-[1]Devina      |09:58:00 | 20-10-2026| watch oshi-rainbow-star: 12% (10.41/86.00s)
-[1]Devina      |09:58:06 | 20-10-2026| watch oshi-rainbow-star: 18% (15.92/86.00s)
-[1]Devina      |09:58:13 | 20-10-2026| watch oshi-rainbow-star: 24% (21.29/86.00s)
-[1]Devina      |09:58:19 | 20-10-2026| watch oshi-rainbow-star: 31% (26.97/86.00s)
-[1]Devina      |09:58:24 | 20-10-2026| watch oshi-rainbow-star: 37% (32.30/86.00s)
-[1]Devina      |09:58:30 | 20-10-2026| watch oshi-rainbow-star: 43% (37.63/86.00s)
-[1]Devina      |09:58:37 | 20-10-2026| watch oshi-rainbow-star: 49% (42.94/86.00s)
-[1]Devina      |09:58:43 | 20-10-2026| watch oshi-rainbow-star: 56% (48.69/86.00s)
-[1]Devina      |09:58:49 | 20-10-2026| watch oshi-rainbow-star: 62% (53.99/86.00s)
-[1]Devina      |09:58:55 | 20-10-2026| watch oshi-rainbow-star: 69% (59.38/86.00s)
-[1]Devina      |09:59:01 | 20-10-2026| watch oshi-rainbow-star: 75% (64.78/86.00s)
-[1]Devina      |09:59:07 | 20-10-2026| watch oshi-rainbow-star: 81% (70.27/86.00s)
-[1]Devina      |09:59:13 | 20-10-2026| watch oshi-rainbow-star: 88% (75.76/86.00s)
-[1]Devina      |09:59:19 | 20-10-2026| watch oshi-rainbow-star: 94% (81.12/86.00s)
-[1]Devina      |09:59:19 | 20-10-2026| watch oshi-rainbow-star: COMPLETED (81.12/86.00s)
-[1]Devina      |09:59:24 | 20-10-2026| watch [3/4] farming oshi-rainbow-lighthouse...
-[1]Devina      |09:59:25 | 20-10-2026| watch oshi-rainbow-lighthouse: 0% (0.00/87.00s)
-[1]Devina      |09:59:31 | 20-10-2026| watch oshi-rainbow-lighthouse: 5% (5.16/87.00s)
-[1]Devina      |09:59:38 | 20-10-2026| watch oshi-rainbow-lighthouse: 12% (10.51/87.00s)
-[1]Devina      |09:59:44 | 20-10-2026| watch oshi-rainbow-lighthouse: 18% (16.46/87.00s)
-[1]Devina      |09:59:50 | 20-10-2026| watch oshi-rainbow-lighthouse: 25% (21.84/87.00s)
-[1]Devina      |09:59:56 | 20-10-2026| watch oshi-rainbow-lighthouse: 31% (27.61/87.00s)
-[1]Devina      |10:00:02 | 20-10-2026| watch oshi-rainbow-lighthouse: 37% (32.93/87.00s)
-[1]Devina      |10:00:09 | 20-10-2026| watch oshi-rainbow-lighthouse: 44% (38.52/87.00s)
-[1]Devina      |10:00:14 | 20-10-2026| watch oshi-rainbow-lighthouse: heartbeat GAGAL http=503
-[1]Devina      |10:00:19 | 20-10-2026| watch [4/4] farming bakeru-ikesou-jan-mv...
-[1]Devina      |10:00:26 | 20-10-2026| watch bakeru-ikesou-jan-mv: 0% (0.00/181.00s)
-[1]Devina      |10:00:32 | 20-10-2026| watch bakeru-ikesou-jan-mv: 2% (5.32/181.00s)
-[1]Devina      |10:00:38 | 20-10-2026| watch bakeru-ikesou-jan-mv: 5% (10.84/181.00s)
-[1]Devina      |10:00:43 | 20-10-2026| watch bakeru-ikesou-jan-mv: 8% (16.15/181.00s)
-[1]Devina      |10:00:50 | 20-10-2026| watch bakeru-ikesou-jan-mv: 11% (21.46/181.00s)
-[1]Devina      |10:00:56 | 20-10-2026| watch bakeru-ikesou-jan-mv: 15% (27.16/181.00s)
-[1]Devina      |10:01:02 | 20-10-2026| watch bakeru-ikesou-jan-mv: 17% (32.49/181.00s)
-[1]Devina      |10:01:08 | 20-10-2026| watch bakeru-ikesou-jan-mv: 21% (38.34/181.00s)
-[1]Devina      |10:01:14 | 20-10-2026| watch bakeru-ikesou-jan-mv: 24% (43.81/181.00s)
-[1]Devina      |10:01:21 | 20-10-2026| watch bakeru-ikesou-jan-mv: 27% (49.23/181.00s)
-[1]Devina      |10:01:27 | 20-10-2026| watch bakeru-ikesou-jan-mv: 30% (55.10/181.00s)
-[1]Devina      |10:01:33 | 20-10-2026| watch bakeru-ikesou-jan-mv: 33% (60.76/181.00s)
-[1]Devina      |10:01:39 | 20-10-2026| watch bakeru-ikesou-jan-mv: 36% (66.38/181.00s)
-[1]Devina      |10:01:45 | 20-10-2026| watch bakeru-ikesou-jan-mv: 39% (71.74/181.00s)
-[1]Devina      |10:01:51 | 20-10-2026| watch bakeru-ikesou-jan-mv: 42% (77.07/181.00s)
-[1]Devina      |10:01:58 | 20-10-2026| watch bakeru-ikesou-jan-mv: 45% (82.44/181.00s)
-[1]Devina      |10:02:04 | 20-10-2026| watch bakeru-ikesou-jan-mv: 48% (88.30/181.00s)
-[1]Devina      |10:02:11 | 20-10-2026| watch bakeru-ikesou-jan-mv: 51% (93.62/181.00s)
-[1]Devina      |10:02:17 | 20-10-2026| watch bakeru-ikesou-jan-mv: 55% (99.98/181.00s)
-[1]Devina      |10:02:23 | 20-10-2026| watch bakeru-ikesou-jan-mv: 58% (105.78/181.00s)
-[1]Devina      |10:02:30 | 20-10-2026| watch bakeru-ikesou-jan-mv: 61% (111.30/181.00s)
-[1]Devina      |10:02:36 | 20-10-2026| watch bakeru-ikesou-jan-mv: 64% (117.05/181.00s)
-[1]Devina      |10:02:42 | 20-10-2026| watch bakeru-ikesou-jan-mv: 67% (122.42/181.00s)
-[1]Devina      |10:02:48 | 20-10-2026| watch bakeru-ikesou-jan-mv: 70% (127.90/181.00s)
-[1]Devina      |10:02:54 | 20-10-2026| watch bakeru-ikesou-jan-mv: 73% (133.26/181.00s)
-[1]Devina      |10:03:00 | 20-10-2026| watch bakeru-ikesou-jan-mv: 76% (138.59/181.00s)
-[1]Devina      |10:03:06 | 20-10-2026| watch bakeru-ikesou-jan-mv: 79% (144.51/181.00s)
-[1]Devina      |10:03:12 | 20-10-2026| watch bakeru-ikesou-jan-mv: 82% (149.84/181.00s)
-[1]Devina      |10:03:18 | 20-10-2026| watch bakeru-ikesou-jan-mv: 85% (155.61/181.00s)
-[1]Devina      |10:03:24 | 20-10-2026| watch bakeru-ikesou-jan-mv: 88% (160.94/181.00s)
-[1]Devina      |10:03:30 | 20-10-2026| watch bakeru-ikesou-jan-mv: 91% (166.31/181.00s)
-[1]Devina      |10:03:30 | 20-10-2026| watch bakeru-ikesou-jan-mv: COMPLETED (166.31/181.00s)
+[1]Devina      |09:57:00 | 21-10-2026| watch: 1 video belum completed: oshi-rainbow-lighthouse
+[1]Devina      |09:57:00 | 21-10-2026| watch [1/1] farming oshi-rainbow-lighthouse...
+[1]Devina      |09:57:01 | 21-10-2026| watch oshi-rainbow-lighthouse: mulai dari 0 (record 38.5s diabaikan)
+[1]Devina      |09:57:02 | 21-10-2026| watch oshi-rainbow-lighthouse: 44% (38.52/87.00s)
+[1]Devina      |09:57:08 | 21-10-2026| watch oshi-rainbow-lighthouse: 44% (38.52/87.00s)
+[1]Devina      |09:57:15 | 21-10-2026| watch oshi-rainbow-lighthouse: 44% (38.52/87.00s)
+[1]Devina      |09:57:21 | 21-10-2026| watch oshi-rainbow-lighthouse: 44% (38.52/87.00s)
+[1]Devina      |09:57:28 | 21-10-2026| watch oshi-rainbow-lighthouse: 44% (38.52/87.00s)
+[1]Devina      |09:57:34 | 21-10-2026| watch oshi-rainbow-lighthouse: 44% (38.52/87.00s)
+[1]Devina      |09:57:40 | 21-10-2026| watch oshi-rainbow-lighthouse: 44% (38.52/87.00s)
+[1]Devina      |09:57:49 | 21-10-2026| watch oshi-rainbow-lighthouse: 46% (40.03/87.00s)
+[1]Devina      |09:57:56 | 21-10-2026| watch oshi-rainbow-lighthouse: 54% (47.16/87.00s)
+[1]Devina      |09:58:02 | 21-10-2026| watch oshi-rainbow-lighthouse: 61% (53.60/87.00s)
+[1]Devina      |09:58:09 | 21-10-2026| watch oshi-rainbow-lighthouse: 68% (59.74/87.00s)
+[1]Devina      |09:58:15 | 21-10-2026| watch oshi-rainbow-lighthouse: 75% (65.45/87.00s)
+[1]Devina      |09:58:21 | 21-10-2026| watch oshi-rainbow-lighthouse: 81% (71.09/87.00s)
+[1]Devina      |09:58:28 | 21-10-2026| watch oshi-rainbow-lighthouse: 88% (76.71/87.00s)
+[1]Devina      |09:58:34 | 21-10-2026| watch oshi-rainbow-lighthouse: 95% (82.86/87.00s)
+[1]Devina      |09:58:34 | 21-10-2026| watch oshi-rainbow-lighthouse: COMPLETED (82.86/87.00s)
 --> [1]Devina menjalankan: Read Article
-[1]Devina      |10:03:32 | 20-10-2026| news: 27/27 artikel selesai dibaca
-[1]Devina      |10:03:32 | 20-10-2026| mint eligibility: {"userId":"1776372963115491328","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@devinasrya","status":"submitted","revision":"384b4a34-5e49-4db1-b8ed-af24c28de9a
-[1]Devina      |10:03:32 | 20-10-2026| news: semua artikel sudah dibaca
+[1]Devina      |09:58:36 | 21-10-2026| news: 27/27 artikel selesai dibaca
+[1]Devina      |09:58:36 | 21-10-2026| mint eligibility: {"userId":"1776372963115491328","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@devinasrya","status":"submitted","revision":"384b4a34-5e49-4db1-b8ed-af24c28de9a
+[1]Devina      |09:58:43 | 21-10-2026| news oshi-nft-price-and-basic-income-01: complete GAGAL http=404 resp={"error":"記事が見つかりません。"}
 --> [1]Devina menjalankan: Quiz Anime
-[1]Devina      |10:03:33 | 20-10-2026| quiz ep1: sudah dijawab
-[1]Devina      |10:03:33 | 20-10-2026| quiz ep2: sudah dijawab
-[1]Devina      |10:03:33 | 20-10-2026| quiz ep3: sudah dijawab
-[1]Devina      |10:03:33 | 20-10-2026| quiz ep4: sudah dijawab
-[1]Devina      |10:03:33 | 20-10-2026| quiz ep5: sudah dijawab
-[1]Devina      |10:03:33 | 20-10-2026| quiz ep6: sudah dijawab
+[1]Devina      |09:58:46 | 21-10-2026| quiz ep1: sudah dijawab
+[1]Devina      |09:58:46 | 21-10-2026| quiz ep2: sudah dijawab
+[1]Devina      |09:58:46 | 21-10-2026| quiz ep3: sudah dijawab
+[1]Devina      |09:58:46 | 21-10-2026| quiz ep4: sudah dijawab
+[1]Devina      |09:58:46 | 21-10-2026| quiz ep5: sudah dijawab
+[1]Devina      |09:58:46 | 21-10-2026| quiz ep6: sudah dijawab
 --> [1]Devina menjalankan: Music Missions (realtime, bisa lama!)
-[1]Devina      |10:03:34 | 20-10-2026| music: kedua misi sudah tercapai, stop
-[1]Devina      |10:03:35 | 20-10-2026| mission music-listens-10: sudah diklaim
-[1]Devina      |10:03:35 | 20-10-2026| mission music-minutes-30: sudah diklaim
-[1]Devina      |10:03:35 | 20-10-2026| mission anime-completed-3: sudah diklaim
+[1]Devina      |09:58:49 | 21-10-2026| music: kedua misi sudah tercapai, stop
+[1]Devina      |09:58:50 | 21-10-2026| mission music-listens-10: sudah diklaim
+[1]Devina      |09:58:50 | 21-10-2026| mission music-minutes-30: sudah diklaim
+[1]Devina      |09:58:50 | 21-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Devina menjalankan: Claim Missions
-[1]Devina      |10:03:36 | 20-10-2026| mission music-listens-10: sudah diklaim
-[1]Devina      |10:03:36 | 20-10-2026| mission music-minutes-30: sudah diklaim
-[1]Devina      |10:03:36 | 20-10-2026| mission anime-completed-3: sudah diklaim
+[1]Devina      |09:58:50 | 21-10-2026| mission music-listens-10: sudah diklaim
+[1]Devina      |09:58:50 | 21-10-2026| mission music-minutes-30: sudah diklaim
+[1]Devina      |09:58:50 | 21-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Devina menjalankan: Check Eligibility
 
 --- eligibility [1]Devina ---
-  @devinasrya | score=1530 rank=4596
-  tasks    [###################-] 74/79
+  @devinasrya | score=1590 rank=4486
+  tasks    [###################-] 74/80
   mission  music-listens-10:      claimed
   mission  music-minutes-30:      claimed
   mission  anime-completed-3:     claimed
   quiz     [####################] 6/6
-  watch    [####################] 21/17
+  watch    [####################] 22/17
   music    [####################] 11/11
   artikel  [####################] 27/27
   mint: requirementsMet=false mintOpen=false discord=true
 
 --> [1]Devina menjalankan: Read Manga
-[1]Devina      |10:03:39 | 20-10-2026| manga: 0/13 chapter belum completed
+[1]Devina      |09:58:55 | 21-10-2026| manga: 0/13 chapter belum completed
 --> [1]Devina menjalankan: Get Gift
-[1]Devina      |10:03:39 | 20-10-2026| gift: 0/4 belum diterima
+[1]Devina      |09:58:56 | 21-10-2026| gift: 0/4 belum diterima
 --> [1]Devina menjalankan: Setup Profile
-[1]Devina      |10:03:40 | 20-10-2026| profile: bio="https://x.com/devinasrya" fav=amato rewardAt=1791825500
-[1]Devina      |10:03:40 | 20-10-2026| profile: bonus sudah diklaim, skip
+[1]Devina      |09:58:56 | 21-10-2026| profile: bio="https://x.com/devinasrya" fav=amato rewardAt=1791825500
+[1]Devina      |09:58:56 | 21-10-2026| profile: bonus sudah diklaim, skip
 --> [1]Devina menjalankan: Bind Wallet
-[1]Devina      |10:03:40 | 20-10-2026| wallet: sudah terikat 3LEJ53GcJW... (solana)
+[1]Devina      |09:58:57 | 21-10-2026| wallet: sudah terikat 3LEJ53GcJW... (solana)
 
 == RINGKASAN ==
-- Devina: daily=claimed | tasks OK 5/6 | misi klaim 0 (+0pt) | kuis benar 6 (+0pt) | watch 3/4 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/4 diterima | profile - | wallet bound | mint req=false open=false
+- Devina: daily=claimed | tasks OK 7/7 | misi klaim 0 (+0pt) | kuis benar 6 (+0pt) | watch 1/1 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/4 diterima | profile - | wallet bound | mint req=false open=false
