@@ -12,49 +12,45 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
 
 
 ===== [1/1] Devina =====
-[1]Devina      |11:19:15 | 29-10-2026| login OK @devinasrya | score=2320 rank=3463
-[1]Devina      |11:19:15 | 29-10-2026| serverTime=2026-10-29T11:19:15.000Z local=2026-10-29T11:19:15.636Z
+[1]Devina      |11:11:49 | 30-10-2026| login OK @devinasrya | score=2400 rank=3349
+[1]Devina      |11:11:49 | 30-10-2026| serverTime=2026-10-30T11:11:49.000Z local=2026-10-30T11:11:49.420Z
 --> [1]Devina menjalankan: Claim Daily
-[1]Devina      |11:19:16 | 29-10-2026| daily: OK +10 poin score=2330
---> [1]Devina menjalankan: Auto All Tasks (8 pending)
-[1]Devina      |11:19:18 | 29-10-2026| [1/8] 4b02b48f (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"4b02b48f-7e1e-4e76-a90a-dac658a60cf3","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211572880657321 | proof=https://x.com/devinasrya/status/2115764985280051248
-[1]Devina      |11:19:18 | 29-10-2026| delay 10s...
-[1]Devina      |11:19:30 | 29-10-2026| [2/8] 5c713c28 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"4b02b48f-7e1e-4e76-a90a-dac658a60cf3","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211572880657321 | proof=https://x.com/devinasrya/status/2115765177552728814
-[1]Devina      |11:19:30 | 29-10-2026| delay 10s...
-[1]Devina      |11:19:42 | 29-10-2026| [3/8] a4b0b050 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"4b02b48f-7e1e-4e76-a90a-dac658a60cf3","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211572880657321 | proof=https://x.com/devinasrya/status/2115765136636620327
-[1]Devina      |11:19:42 | 29-10-2026| delay 10s...
-[1]Devina      |11:19:54 | 29-10-2026| [4/8] 6fb148bd (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"4b02b48f-7e1e-4e76-a90a-dac658a60cf3","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211572880657321 | proof=https://x.com/devinasrya/status/2115765168374939809
-[1]Devina      |11:19:54 | 29-10-2026| delay 10s...
-[1]Devina      |11:20:05 | 29-10-2026| [5/8] 3a2ebc56 (reply) verify GAGAL http=409 resp={"error":"このタスクは受付を終了しました。"} | proof=https://x.com/devinasrya/status/2115765276683034074
-[1]Devina      |11:20:05 | 29-10-2026| delay 10s...
-[1]Devina      |11:20:17 | 29-10-2026| [6/8] 21a80281 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"4b02b48f-7e1e-4e76-a90a-dac658a60cf3","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211572880657321 | proof=https://x.com/devinasrya/status/2115765121004981783
-[1]Devina      |11:20:17 | 29-10-2026| delay 10s...
-[1]Devina      |11:20:28 | 29-10-2026| [7/8] 623aac60 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"4b02b48f-7e1e-4e76-a90a-dac658a60cf3","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211572880657321 | proof=https://x.com/devinasrya/status/2115765410156158622
-[1]Devina      |11:20:28 | 29-10-2026| delay 10s...
-[1]Devina      |11:20:40 | 29-10-2026| [8/8] 125a0329 (link) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"4b02b48f-7e1e-4e76-a90a-dac658a60cf3","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211572880657321
-[1]Devina      |11:20:40 | 29-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
-[1]Devina      |11:20:41 | 29-10-2026| [1/1] 4b02b48f (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"4b02b48f-7e1e-4e76-a90a-dac658a60cf3","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2115728806573219 | proof=https://x.com/devinasrya/status/2115765500352979718
+[1]Devina      |11:11:50 | 30-10-2026| daily: OK +10 poin score=2410
+--> [1]Devina menjalankan: Auto All Tasks (6 pending)
+[1]Devina      |11:11:52 | 30-10-2026| [1/6] 68dc803a (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"68dc803a-de32-46c1-a739-5aa7640f613a","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211604007901790 | proof=https://x.com/devinasrya/status/2116125586026367517
+[1]Devina      |11:11:52 | 30-10-2026| delay 10s...
+[1]Devina      |11:12:06 | 30-10-2026| [2/6] 2b535748 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"68dc803a-de32-46c1-a739-5aa7640f613a","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211604007901790 | proof=https://x.com/devinasrya/status/2116125554722966502
+[1]Devina      |11:12:06 | 30-10-2026| delay 10s...
+[1]Devina      |11:12:18 | 30-10-2026| [3/6] 41ea1884 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"68dc803a-de32-46c1-a739-5aa7640f613a","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211604007901790 | proof=https://x.com/devinasrya/status/2116125599832025007
+[1]Devina      |11:12:18 | 30-10-2026| delay 10s...
+[1]Devina      |11:12:30 | 30-10-2026| [4/6] ef7e9fb7 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"68dc803a-de32-46c1-a739-5aa7640f613a","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211604007901790 | proof=https://x.com/devinasrya/status/2116125619860857505
+[1]Devina      |11:12:30 | 30-10-2026| delay 10s...
+[1]Devina      |11:12:42 | 30-10-2026| [5/6] 0aa0f4ba (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"68dc803a-de32-46c1-a739-5aa7640f613a","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211604007901790 | proof=https://x.com/devinasrya/status/2116125541215447154
+[1]Devina      |11:12:42 | 30-10-2026| delay 10s...
+[1]Devina      |11:12:54 | 30-10-2026| [6/6] 137da6db (link) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"68dc803a-de32-46c1-a739-5aa7640f613a","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211604007901790
+[1]Devina      |11:12:54 | 30-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Devina      |11:12:55 | 30-10-2026| [1/1] 68dc803a (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"68dc803a-de32-46c1-a739-5aa7640f613a","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2116040079017906 | proof=https://x.com/devinasrya/status/2116125571723528860
 --> [1]Devina menjalankan: Watch Anime
-[1]Devina      |11:20:43 | 29-10-2026| watch: semua video sudah completed
+[1]Devina      |11:12:56 | 30-10-2026| watch: semua video sudah completed
 --> [1]Devina menjalankan: Read Article
-[1]Devina      |11:20:44 | 29-10-2026| news: 30/30 artikel selesai dibaca
-[1]Devina      |11:20:45 | 29-10-2026| mint eligibility: {"userId":"1776372963115491328","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@devinasrya","status":"submitted","revision":"384b4a34-5e49-4db1-b8ed-af24c28de9a
-[1]Devina      |11:20:45 | 29-10-2026| news: semua artikel sudah dibaca
+[1]Devina      |11:12:57 | 30-10-2026| news: 30/30 artikel selesai dibaca
+[1]Devina      |11:12:57 | 30-10-2026| mint eligibility: {"userId":"1776372963115491328","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@devinasrya","status":"submitted","revision":"384b4a34-5e49-4db1-b8ed-af24c28de9a
+[1]Devina      |11:12:57 | 30-10-2026| news: semua artikel sudah dibaca
 --> [1]Devina menjalankan: Quiz Anime
 --> [1]Devina menjalankan: Music Missions (realtime, bisa lama!)
-[1]Devina      |11:20:47 | 29-10-2026| music: kedua misi sudah tercapai, stop
-[1]Devina      |11:20:48 | 29-10-2026| mission music-listens-10: sudah diklaim
-[1]Devina      |11:20:48 | 29-10-2026| mission music-minutes-30: sudah diklaim
-[1]Devina      |11:20:48 | 29-10-2026| mission anime-completed-3: sudah diklaim
+[1]Devina      |11:12:59 | 30-10-2026| music: kedua misi sudah tercapai, stop
+[1]Devina      |11:13:00 | 30-10-2026| mission music-listens-10: sudah diklaim
+[1]Devina      |11:13:00 | 30-10-2026| mission music-minutes-30: sudah diklaim
+[1]Devina      |11:13:00 | 30-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Devina menjalankan: Claim Missions
-[1]Devina      |11:20:49 | 29-10-2026| mission music-listens-10: sudah diklaim
-[1]Devina      |11:20:49 | 29-10-2026| mission music-minutes-30: sudah diklaim
-[1]Devina      |11:20:49 | 29-10-2026| mission anime-completed-3: sudah diklaim
+[1]Devina      |11:13:02 | 30-10-2026| mission music-listens-10: sudah diklaim
+[1]Devina      |11:13:02 | 30-10-2026| mission music-minutes-30: sudah diklaim
+[1]Devina      |11:13:02 | 30-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Devina menjalankan: Check Eligibility
 
 --- eligibility [1]Devina ---
-  @devinasrya | score=2320 rank=3463
-  tasks    [#######-------------] 4/12
+  @devinasrya | score=2400 rank=3349
+  tasks    [########------------] 4/10
   mission  music-listens-10:      claimed
   mission  music-minutes-30:      claimed
   mission  anime-completed-3:     claimed
@@ -65,14 +61,15 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
   mint: requirementsMet=false mintOpen=false discord=true
 
 --> [1]Devina menjalankan: Read Manga
-[1]Devina      |11:20:52 | 29-10-2026| manga: 0/13 chapter belum completed
+[1]Devina      |11:13:04 | 30-10-2026| manga: 0/13 chapter belum completed
 --> [1]Devina menjalankan: Get Gift
-[1]Devina      |11:20:52 | 29-10-2026| gift: 0/5 belum diterima
+[1]Devina      |11:13:05 | 30-10-2026| gift: 1/6 belum diterima
+[1]Devina      |11:13:06 | 30-10-2026| gift [1/1] I’m minting. Welcoming my Oshii.: OK
 --> [1]Devina menjalankan: Setup Profile
-[1]Devina      |11:20:53 | 29-10-2026| profile: bio="https://x.com/devinasrya" fav=amato rewardAt=1791825500
-[1]Devina      |11:20:53 | 29-10-2026| profile: bonus sudah diklaim, skip
+[1]Devina      |11:13:08 | 30-10-2026| profile: bio="https://x.com/devinasrya" fav=amato rewardAt=1791825500
+[1]Devina      |11:13:08 | 30-10-2026| profile: bonus sudah diklaim, skip
 --> [1]Devina menjalankan: Bind Wallet
-[1]Devina      |11:20:53 | 29-10-2026| wallet: sudah terikat 3LEJ53GcJW... (solana)
+[1]Devina      |11:13:09 | 30-10-2026| wallet: sudah terikat 3LEJ53GcJW... (solana)
 
 == RINGKASAN ==
-- Devina: daily=claimed | tasks OK 8/9 | misi klaim 0 (+0pt) | kuis benar 0 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/5 diterima | profile - | wallet bound | mint req=false open=false
+- Devina: daily=claimed | tasks OK 7/7 | misi klaim 0 (+0pt) | kuis benar 0 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 1/6 diterima | profile - | wallet bound | mint req=false open=false
